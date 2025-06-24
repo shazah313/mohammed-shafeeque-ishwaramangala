@@ -35,10 +35,7 @@ export default function MohammedShafeequeProfile() {
           <section className="bg-white text-black p-6 rounded-2xl shadow-xl">
             <h2 className="text-2xl font-semibold mb-4">Profile Summary</h2>
             <p className="mb-4">
-              Mohammed Shafeeque Ishwaramangala is a forward-thinking individual known for his work in
-              software development, robotics systems, and community-focused projects. Based in
-              Ishwaramangala, Karnataka, he has gained recognition through his contributions to digital innovation,
-              educational outreach, and public speaking at regional events like Bekal Fest 2K24.
+              Mohammed Shafeeque Ishwaramangala is a forward-thinking individual known for his work in software development, robotics systems, and community-focused projects. Based in Ishwaramangala, Karnataka, he has gained recognition through his contributions to digital innovation, educational outreach, and public speaking at regional events like Bekal Fest 2K24.
             </p>
             <ul className="list-disc list-inside mb-4">
               <li>Flutter & Firebase App Development</li>
@@ -47,8 +44,10 @@ export default function MohammedShafeequeProfile() {
               <li>Full-stack Web & Mobile Apps</li>
             </ul>
             <p className="mb-4">
-              He is also actively involved in creating and managing content on YouTube through:<br />
-              <strong>Islamic Media Shazah</strong> – for Islamic and cultural speeches<br />
+              He is also actively involved in creating and managing content on YouTube through:
+              <br />
+              <strong>Islamic Media Shazah</strong> – for Islamic and cultural speeches
+              <br />
               <strong>Oru Trippoli</strong> – for public events, festival appearances, and travel-based content ("Oru Trippoli" means "A Traveller").
             </p>
             <h3 className="text-xl font-semibold mb-2">Education</h3>
