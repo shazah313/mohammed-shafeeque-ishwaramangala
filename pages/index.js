@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Github, Linkedin, Twitter, Youtube, Instagram, MapPin, Mail, Phone, ExternalLink, Code, Cpu, Smartphone, Globe } from "lucide-react";
 
+
 export default function MohammedShafeequeProfile() {
   // Add SEO meta tags dynamically
   useEffect(() => {
@@ -138,24 +139,20 @@ export default function MohammedShafeequeProfile() {
           <div className="max-w-6xl mx-auto px-6 py-8">
             <div className="flex flex-col lg:flex-row items-center gap-8">
               {/* Profile Image */}
-              <div className="relative group">
-                <div className="w-48 h-48 rounded-full bg-gradient-to-r from-purple-400 to-blue-400 p-1 animate-spin-slow">
-                  <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center overflow-hidden">
-                    {/* Replace this placeholder with actual image */}
-                    <div className="w-44 h-44 rounded-full bg-gradient-to-br from-gray-300 to-gray-500 flex items-center justify-center text-gray-700 text-4xl font-bold">
-                      MS
-                    </div>
-                    
-                    <img 
-                      src="20240111_101034.jpg" 
-                      alt="Mohammed Shafeeque Ishwaramangala"
-                      className="w-44 h-44 rounded-full object-cover"
-                    />
-                   
-                  </div>
-                </div>
-                <div className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-400 to-blue-400 opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
-              </div>
+<div className="relative group">
+  <div className="w-48 h-48 rounded-full bg-gradient-to-r from-purple-400 to-blue-400 p-1 animate-spin-slow">
+    <div className="w-full h-full rounded-full bg-slate-800 overflow-hidden">
+      <img 
+        src="/images/20240111_101034.jpg" 
+        alt="Mohammed Shafeeque Ishwaramangala"
+        className="w-full h-full object-cover rounded-full"
+      />
+    </div>
+  </div>
+
+  <div className="absolute inset-0 rounded-full bg-gradient-to-r from-purple-400 to-blue-400 opacity-0 group-hover:opacity-20 transition-opacity duration-300"></div>
+</div>
+
 
               {/* Profile Info */}
               <div className="flex-1 text-center lg:text-left">
