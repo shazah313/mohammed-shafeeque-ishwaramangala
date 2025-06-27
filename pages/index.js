@@ -120,8 +120,8 @@ export default function MohammedShafeequeProfile() {
     { icon: <Instagram className="w-5 h-5" />, url: "https://instagram.com/mohammed_shafeeq_ue", label: "Instagram", color: "hover:text-pink-400" },
     { icon: <Linkedin className="w-5 h-5" />, url: "https://www.linkedin.com/in/mohammed-shafeeque-870765195", label: "LinkedIn", color: "hover:text-blue-400" },
     { icon: <Twitter className="w-5 h-5" />, url: "https://x.com/shafeeqshazah", label: "X (Twitter)", color: "hover:text-sky-400" },
-    { icon: <Youtube className="w-5 h-5" />, url: "https://www.youtube.com/@IslamicMediaShazah", label: "Islamic Media Shazah", color: "hover:text-red-400" },
-    { icon: <Youtube className="w-5 h-5" />, url: "https://www.youtube.com/@OruTrippoli", label: "Oru Trippoli", color: "hover:text-red-400" }
+    { icon: <Youtube className="w-5 h-5" />, url: "https://www.youtube.com/@Islamicmedia313", label: "Islamic Media Shazah", color: "hover:text-red-400" },
+    { icon: <Youtube className="w-5 h-5" />, url: "https://www.youtube.com/@shazah48", label: "Oru Trippoli", color: "hover:text-red-400" }
   ];
 
   return (
