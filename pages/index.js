@@ -52,8 +52,8 @@ export default function MohammedShafeequeProfile() {
         "https://instagram.com/mohammed_shafeeq_ue",
         "https://www.linkedin.com/in/mohammed-shafeeque-870765195",
         "https://x.com/shafeeqshazah",
-        "https://www.youtube.com/@IslamicMediaShazah",
-        "https://www.youtube.com/@OruTrippoli"
+        "https://www.youtube.com/@Islamicmedia313",
+        "https://www.youtube.com/@shazah48"
       ],
       "address": {
         "@type": "PostalAddress",
